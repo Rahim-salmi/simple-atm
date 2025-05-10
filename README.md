@@ -1,1 +1,1 @@
-# simple-banking-program
+# SIMPLE-ATM
